@@ -1,0 +1,30 @@
+{
+  "name": "learncast",
+  "version": "1.0.0",
+  "description": "LearnCast is a modern LMS that leverages advanced technology to provide an interactive and engaging learning experience to users.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learncast/website.git"
+  },
+  "keywords": [
+    "lms",
+    "learning",
+    "management",
+    "system",
+    "e-learning",
+    "interactive",
+    "courses",
+    "online",
+    "learning"
+  ],
+  "author": "OpenWIK - Eddie Villanueva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learncast/website/issues"
+  },
+  "homepage": "https://github.com/learncast/website#readme"
+}
