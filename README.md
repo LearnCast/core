@@ -19,7 +19,7 @@ A *learning management system* **(LMS)** is a software application for the admin
 
 ### Description
 
-Welcome to LearnCast's learning management system (LMS) website! Our platform is designed to help businesses, educational institutions, and other organizations manage and deliver their training and educational programs efficiently and effectively.
+Welcome to LearnCast's learning management system (LMS) website! Our platform is designed to help businesses, educational institutions, and other organizations manage and deliver their training and educational programs efficiently and effectively. 
 
 Based in Las Vegas, Nevada, USA, LearnCast's LMS platform offers a range of features to make learning more engaging, interactive, and effective. These features include customizable course creation, interactive content delivery, gamification, discussion forums, assessments, and analytics. Our platform is easy to use, with a user-friendly interface that allows organizations to manage their courses and learners easily.
 
