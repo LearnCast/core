@@ -1,5 +1,7 @@
 # Overview
 
+<img src="https://raw.githubusercontent.com/LearnCast/core/main/logo/logo-square-trans-no-tagline.svg" />
+
 A *learning management system* **(LMS)** is a software application for the administration, documentation, tracking, reporting, automation, and delivery of educational courses, training programs, or learning and development programs.
 
 **LearnCast** is a *modern LMS* that leverages advanced technology to provide an interactive and engaging learning experience to users. It allows organizations to manage their learning content, track learner progress, and deliver training on-demand through various devices and platforms.
