@@ -1,6 +1,6 @@
 # Overview
 
-<img src="https://raw.githubusercontent.com/LearnCast/core/main/logo/logo-square-trans-no-tagline.svg" />
+<img src="https://raw.githubusercontent.com/LearnCast/core/main/logo/new-logo-gold-banner-black-bg.svg" />
 
 A *learning management system* **(LMS)** is a software application for the administration, documentation, tracking, reporting, automation, and delivery of educational courses, training programs, or learning and development programs.
 
